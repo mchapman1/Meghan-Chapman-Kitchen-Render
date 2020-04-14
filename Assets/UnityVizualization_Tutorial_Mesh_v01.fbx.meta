@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 8cb293354e558c74b9f67a1f4d726e47
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emissive_CanLight_White
+    second: {fileID: 2100000, guid: 6ae2c613eab7f404d875f5cd9437f859, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blackout
+    second: {fileID: 2100000, guid: 6520060d40a6ae64b801eb9100da6260, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bookCover_1
+    second: {fileID: 2100000, guid: 29d6cc8bc2737944cabdb860212421e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bookCover_2
+    second: {fileID: 2100000, guid: 735abbf964eaedc40b75babacf5a0c32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bookCover_3
+    second: {fileID: 2100000, guid: 51c5a939762e8f242ab192efd624d91c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ceramic_grey_plate
+    second: {fileID: 2100000, guid: 56001bbb854e2d64a8cd3223147f812b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ceramic_vase_1
+    second: {fileID: 2100000, guid: e3c04e2ae81342947af1d6fb3548ab44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: emissive_LED_bulb
+    second: {fileID: 2100000, guid: ce3027be1bca7334f92edb989a615f2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor
+    second: {fileID: 2100000, guid: 5ba412b0f7279eb43ba9397aaa29b486, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass_opaque_black
+    second: {fileID: 2100000, guid: b466b298951efc54c9f815a40fb6b726, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass_transparent
+    second: {fileID: 2100000, guid: c147cf5ee06083b4bb91897d09b2f265, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 003dafbb78e7ae5418b16e9a45e0e9d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leaf
+    second: {fileID: 2100000, guid: 800a34ddbee747b479a468f4f4c0bc04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_bright
+    second: {fileID: 2100000, guid: 16e7857481f2be044a4055afbf9805da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_chrome
+    second: {fileID: 2100000, guid: 4ab8d28db45230242b457c58447c45b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oven_tex
+    second: {fileID: 2100000, guid: 80806c25fb1eb694d9b39733109f94b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paint_walls_white_semiGloss
+    second: {fileID: 2100000, guid: d90755ea601a16d479aab03efb44e718, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paint_white_gloss
+    second: {fileID: 2100000, guid: 51b7b786ccfd06943b915a1e34f02b40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paper_pages
+    second: {fileID: 2100000, guid: 7fa79684c6ba43743b74d995397e3a73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_gloss_black
+    second: {fileID: 2100000, guid: e7ba35acdc2402b49b4c6829cbb209e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_gloss_white
+    second: {fileID: 2100000, guid: 15592fe46de2ad0419c3711690a67892, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stainless_steel_brushed
+    second: {fileID: 2100000, guid: 02ed2b95593c17140998c9404fb0364e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stem
+    second: {fileID: 2100000, guid: 0c0190bf1eba78642b742be966ef5635, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stoveTop
+    second: {fileID: 2100000, guid: 5563d22df075e6549964c46aacaae58b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vase
+    second: {fileID: 2100000, guid: 033f2b441d1ea9140b10ad3622f45913, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_button_semiMatte
+    second: {fileID: 2100000, guid: 90b297937e88bac44a366f6b79135dbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_counters
+    second: {fileID: 2100000, guid: c5e7a15d86bd3e847a5be450555ba24c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: worldSurround
+    second: {fileID: 2100000, guid: 9ecdd454820b42c419c0ca6c7fc00272, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
